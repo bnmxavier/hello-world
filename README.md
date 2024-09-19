@@ -4,3 +4,5 @@ Test
 hello world
 
 conflict
+
+foobar
